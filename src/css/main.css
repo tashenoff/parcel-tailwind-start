@@ -1,0 +1,4 @@
+@tailwind base;
+@import "test";
+@tailwind components;
+@tailwind utilities;
